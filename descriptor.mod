@@ -1,0 +1,15 @@
+version="0.1"
+tags={
+	"Alternative History"
+	"National Focuses"
+	"Events"
+	"Balance"
+	"Historical"
+	"Ideologies"
+	"Map"
+	"Translation"
+	"Sound"
+}
+name="Pax Romana!"
+supported_version="1.12.*"
+remote_file_id="3030768350"
